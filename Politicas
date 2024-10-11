@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Política de Privacidad</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+        }
+        h1, h2, h3 {
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <h1>Política de Privacidad JDNA</h1>
+    <p><strong>Última actualización:</strong> [Fecha]</p>
+
+    <h2>1. Introducción</h2>
+    <p>
+        Esta política de privacidad describe cómo la aplicacion JDNA recopila, utiliza y comparte información sobre los usuarios. Al utilizar nuestra Aplicación, aceptas la recopilación y uso de información de acuerdo con esta política.
+    </p>
+
+    <h2>2. Información que recopilamos</h2>
+    <p>
+        Recopilamos la siguiente información:
+    </p>
+    <ul>
+        <li><strong>Información personal:</strong> No recopilamos información personal identificable, como nombre, dirección o correo electrónico, a menos que el usuario decida proporcionarla.</li>
+        <li><strong>Datos de uso:</strong> Recopilamos información sobre cómo se utiliza la Aplicación, como la duración de la sesión, las características utilizadas y el tipo de dispositivo.</li>
+    </ul>
+
+    <h2>3. Uso de la información</h2>
+    <p>
+        La información que recopilamos se utiliza para:
+    </p>
+    <ul>
+        <li>Proporcionar información sobre convocatorias de campeonatos de arquitectos.</li>
+        <li>Mostrar fixture, opciones de hospedaje, gastronomía y lugares turísticos.</li>
+        <li>Informar sobre eventos especiales y ganadores.</li>
+        <li>Mejorar la experiencia del usuario en la Aplicación.</li>
+    </ul>
+
+    <h2>4. Compartir información</h2>
+    <p>
+        No compartimos tu información personal con terceros, excepto en las siguientes circunstancias:
+    </p>
+    <ul>
+        <li>Cuando sea necesario para cumplir con la ley o en respuesta a un proceso legal.</li>
+        <li>Con proveedores de servicios que nos ayudan a operar la Aplicación, siempre que estos se comprometan a mantener la confidencialidad de tu información.</li>
+    </ul>
+
+    <h2>5. Seguridad de la información</h2>
+    <p>
+        Tomamos medidas razonables para proteger la información que recopilamos. Sin embargo, no podemos garantizar la seguridad absoluta de la información transmitida a través de Internet.
+    </p>
+
+    <h2>6. Enlaces a otros sitios</h2>
+    <p>
+        Nuestra Aplicación puede contener enlaces a sitios web de terceros. No somos responsables de las prácticas de privacidad de esos sitios. Te recomendamos leer las políticas de privacidad de cualquier sitio que visites.
+    </p>
+
+    <h2>7. Cambios a esta política</h2>
+    <p>
+        Podemos actualizar nuestra política de privacidad de vez en cuando. Te notificaremos sobre cambios mediante la publicación de la nueva política en esta página. Te aconsejamos revisar esta política periódicamente para estar al tanto de cualquier cambio.
+    </p>
+
+    <h2>8. Contacto</h2>
+    <p>
+        Si tienes preguntas sobre esta política de privacidad, por favor contáctanos a través del correo proyection009@gmail.com.
+    </p>
+</body>
+</html>
